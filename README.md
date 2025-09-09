@@ -1,4 +1,4 @@
-# Hola, que tal soy Mathias Arzabe 👋
+# Hola, que tal soy Mathias 👋
 
 Estudiante del programa **Ethereum Developer Pack (2025-S2)**.  
 Vengo de base en **C# / .NET** y ahora aprendiendo Solidity y Web3 ⚡  
