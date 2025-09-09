@@ -1,9 +1,14 @@
-# Hola, soy Mathias Arzabe 👋
+# Hola, que tal soy Mathias Arzabe 👋
 
-Estudiante del programa **Ethereum Developer (2025-S2)**.  
-Con base en C# / .NET, ahora metido en aprender Solidity y Web3 ⚡  
+Estudiante del programa **Ethereum Developer Pack (2025-S2)**.  
+Vengo de base en **C# / .NET** y ahora aprendiendo Solidity y Web3 ⚡  
 
-## Mis intenciones
-- Meterme de lleno en el ecosistema Ethereum.  
-- Probar, equivocarme y seguir aprendiendo.  
-- Empezar a crear mis propias apps descentralizadas.  
+## Mis intereses
+- Meterme de lleno en el ecosistema Ethereum 🌐  
+- Entender cómo funcionan los contratos inteligentes y testnets  
+- Probar herramientas nuevas y aprender bastante  
+
+## Mis metas
+- Crear mis primeras aplicaciones descentralizadas 🚀  
+- Contribuir con el ecosistema con lo que vaya construyendo  
+- Seguir creciendo paso a paso, con práctica real  
